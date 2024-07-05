@@ -7,4 +7,4 @@ I'm Hosea James Zacarias also the creator and maker of M.A.P.S this app has an a
 
 ## Wanna Know more about our M.A.P.S pls click the usermanual below
 
-[User Manual )](USER_MANUAL)
+[User Manual )](USER_MANUAL.md.)
